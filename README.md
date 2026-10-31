@@ -5,7 +5,7 @@ Dự án Lumi H5P Desktop – Vietnamese Edition.  Dự án sử dụng phần 
 Linux (.deb)
 Cung cấp miễn phí.
 Hỗ trợ giao diện tiếng Việt.
-Không yêu cầu key kích hoạt.
+
 Windows (.exe)
 Bộ cài được đóng gói riêng.
 Bao gồm phần mềm Lumi H5P Desktop và tài nguyên Việt hóa.
